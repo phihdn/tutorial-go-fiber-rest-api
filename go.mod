@@ -1,4 +1,4 @@
-module github.com/koddr/tutorial-go-fiber-rest-api
+module github.com/phihdn/tutorial-go-fiber-rest-api
 
 go 1.16
 

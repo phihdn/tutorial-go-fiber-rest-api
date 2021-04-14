@@ -5,9 +5,9 @@ import (
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/google/uuid"
-	"github.com/koddr/tutorial-go-fiber-rest-api/app/models"
-	"github.com/koddr/tutorial-go-fiber-rest-api/pkg/utils"
-	"github.com/koddr/tutorial-go-fiber-rest-api/platform/database"
+	"github.com/phihdn/tutorial-go-fiber-rest-api/app/models"
+	"github.com/phihdn/tutorial-go-fiber-rest-api/pkg/utils"
+	"github.com/phihdn/tutorial-go-fiber-rest-api/platform/database"
 )
 
 // GetBooks func gets all exists books.

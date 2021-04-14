@@ -8,7 +8,7 @@ import (
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/joho/godotenv"
-	"github.com/koddr/tutorial-go-fiber-rest-api/pkg/utils"
+	"github.com/phihdn/tutorial-go-fiber-rest-api/pkg/utils"
 	"github.com/stretchr/testify/assert"
 )
 
